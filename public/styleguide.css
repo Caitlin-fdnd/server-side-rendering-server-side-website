@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Bariol-reg;
+    src: url(public/assets/bariol_regular-webfont.woff);
+}
+
+@font-face {
+    font-family: Bariol-thin;
+    src: url(public/assets/bariol_thin-webfont.woff);
+}
+
+@font-face {
+    font-family: Bariol-bold;
+    src: url(public/assets/bariol_bold-webfont.woff);
+}
